@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\sasyn\Desktop\Constraint_programming\.metadata\.plugins\org.eclipse.jdt.core
